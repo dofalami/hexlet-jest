@@ -1,5 +1,4 @@
 {
-  {
   "name": "hexlet-jest",
   "version": "1.0.0",
   "description": "",
@@ -7,10 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dofalami/hexlet-jest.git"
+  },
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "bugs": {
+    "url": "https://github.com/dofalami/hexlet-jest/issues"
   },
+  "homepage": "https://github.com/dofalami/hexlet-jest#readme",
   "devDependencies": {
     "jest": "^29.3.1"
   }
