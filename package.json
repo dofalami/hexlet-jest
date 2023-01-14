@@ -1,23 +1,16 @@
 {
   "name": "hexlet-jest",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dofalami/hexlet-jest.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dofalami/hexlet-jest/issues"
-  },
-  "type": "module",
-  "homepage": "https://github.com/dofalami/hexlet-jest#readme",
   "devDependencies": {
-    "jest": "^29.3.1"
+    "jest": "^29.0.1"
   }
 }
